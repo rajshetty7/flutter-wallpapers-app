@@ -1,6 +1,6 @@
 # wallpapers_hub
 
-A wallpapers app
+A wallpapers app used to search and download trending wallpapers from the web. Developed in Flutter using the Dart programming language.
 
 ## Getting Started
 
